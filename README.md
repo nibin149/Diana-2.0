@@ -41,7 +41,7 @@ GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
 $ git clone https://github.com/nibin149/Diana-2.0
-$ cd Diana
+$ cd Diana-2.0
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js

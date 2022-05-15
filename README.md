@@ -25,13 +25,13 @@ IF YOU ARE FACING PROBLEMS WHILE DEPLOYING
 FIRST FORK THIS REPO
 THEN COPY THE LINK BELLOW AND CHANGE THE NAME `nibin149` TO YOUR USER NAME AND OPEN THIS LINK IN CHROME
 
-Copy this link https://heroku.com/deploy?template=https://github.com/nibin149/Diana
+Copy this link https://heroku.com/deploy?template=https://github.com/nibin149/Diana-2.0
 </p>
 
   
 ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nibin149/Diana) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nibin149/Diana-2.0) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
@@ -40,7 +40,7 @@ Copy this link https://heroku.com/deploy?template=https://github.com/nibin149/Di
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/nibin149/Diana
+$ git clone https://github.com/nibin149/Diana-2.0
 $ cd Diana
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -49,8 +49,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/nibin149/Diana
-$ cd Diana
+$ git clone https://github.com/nibin149/Diana-2.0
+$ cd Diana-2.0
 $ npm i
 $ node julie.js
 ```
@@ -77,7 +77,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/HaRiE6gtMnnIYqtlGofs77)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nibin149&repo=Diana&theme=nightowl)](https://github.com/nibin149/Diana)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nibin149&repo=Diana&theme=nightowl)](https://github.com/nibin149/Diana-2.0)
   </div>
     
 ### ⚠️ Warning! 
